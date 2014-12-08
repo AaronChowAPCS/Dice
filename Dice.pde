@@ -1,4 +1,4 @@
-//swag
+//compsci
 //aaron
 //chow
 
