@@ -1,3 +1,7 @@
+//swag
+//aaron
+//chow
+
 Die gambler;
 int colorOne;
 int colorTwo;
